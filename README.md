@@ -1,4 +1,21 @@
-# Python-Data-Cleaning-Study-Case
+<img width="1377" height="209" alt="gambar" src="https://github.com/user-attachments/assets/12b06ddb-e969-440b-babe-3bab717abfd6" /># Python-Data-Cleaning-Study-Case
 Data Celaning Study Case using Python. In this case we use Customer Satisfaction Survey as Dataset.
 
-In This project we use 9 steps to clean the dataset
+In This project we use 9 steps to clean the dataset:
+STEP 1 : LOAD & INSPECT
+STEP 2 : CLEAN COLUMN NAMES
+STEP 3 : FIX DATA TYPES
+STEP 4: REMOVE DUPLICATES
+STEP 5: HANDLING OUTLIERS
+STEP 6: CLEAN STRINGS / TEXT DATA
+STEP 7: STANDARDIZE VALUES
+STEP 8: RENAME / DROP / REORDER COLUMNS
+STEP 9: HANDLE MISSING DATA
+
+
+
+
+
+
+
+
