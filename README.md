@@ -12,6 +12,8 @@ STEP 7: STANDARDIZE VALUES
 STEP 8: RENAME / DROP / REORDER COLUMNS
 STEP 9: HANDLE MISSING DATA
 
+The output of the file will be exported in csv or xls file
+
 
 
 
