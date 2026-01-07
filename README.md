@@ -1,7 +1,7 @@
-Data Cleaning Study Case using Python.
-In this case we use Customer Satisfaction Survey as Dataset.
+# Data Cleaning Study Case using Python
+in this case we use Customer Satisfaction Survey as Dataset.
 
-we use 9 steps to clean the dataset:
+we use 9 steps to clean the dataset:  
 STEP 1 : LOAD & INSPECT
 STEP 2 : CLEAN COLUMN NAMES
 STEP 3 : FIX DATA TYPES
