@@ -14,7 +14,43 @@ STEP 7: STANDARDIZE VALUES
 STEP 8: RENAME / DROP / REORDER COLUMNS  
 STEP 9: HANDLE MISSING DATA  
 
-The output of the file will be exported in csv or xls file
+The output of the file will be exported in csv or xls file.
+
+Dataset Shape:
+(181756, 22)
+
+Dataset info:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 181756 entries, 0 to 181755
+Data columns (total 22 columns):
+ #   Column                                                        Non-Null Count   Dtype  
+---  ------                                                        --------------   -----  
+ 0   Phone Number                                                  181756 non-null  int64  
+ 1   Region                                                        180586 non-null  object 
+ 2   area                                                          180586 non-null  object 
+ 3   Sales Area                                                    180586 non-null  object 
+ 4   Micro Cluster                                                 180586 non-null  object 
+ 5   site_id                                                       83881 non-null   object 
+ 6   Level                                                         181756 non-null  int64  
+ 7   Category                                                      181756 non-null  object 
+ 8   Hal apa yang membuat kamu puas?                               99955 non-null   object 
+ 9   Other Choice-Lainnya, silakan isi pada kolom dibawah ini :    8578 non-null    object 
+ 10  Other Group Satisfaction                                      86057 non-null   object 
+ 11  Hal apa yang membuat kamu tidak puas ?                        53705 non-null   object 
+ 12  Other Choice-Lainnya, silakan isi pada kolom dibawah ini :.1  7355 non-null    object 
+ 13  Other Group Dissatisfaction                                   52239 non-null   object 
+ 14  Data Usage                                                    177308 non-null  float64
+ 15  Survey Status                                                 181755 non-null  object 
+ 16  Week                                                          181756 non-null  int64  
+ 17  Survey Sent                                                   181756 non-null  object 
+ 18  Month                                                         181756 non-null  object 
+ 19  Speed                                                         180676 non-null  float64
+ 20  Billing                                                       180924 non-null  float64
+ 21  Wage                                                          181126 non-null  float64
+dtypes: float64(4), int64(3), object(15)
+memory usage: 30.5+ MB
+
+
 
 
 
