@@ -23,7 +23,7 @@ Dataset info:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 181756 entries, 0 to 181755
 Data columns (total 22 columns):
- #   Column                                                        Non-Null Count   Dtype  
+     Column                                                        Non-Null Count   Dtype  
 ---  ------                                                        --------------   -----  
  0   Phone Number                                                  181756 non-null  int64  
  1   Region                                                        180586 non-null  object 
@@ -48,7 +48,7 @@ Data columns (total 22 columns):
  20  Billing                                                       180924 non-null  float64
  21  Wage                                                          181126 non-null  float64
 dtypes: float64(4), int64(3), object(15)
-memory usage: 30.5+ MB
+
 
 
 
