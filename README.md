@@ -1,5 +1,6 @@
 # Data Cleaning Study Case using Python
-in this case we use Customer Satisfaction Survey as Dataset.
+in this case we use Customer Satisfaction Survey as Dataset.  
+The Dataset was collected by on field survey.
 
 Data cleaning is a foundational process in the data science lifecycle, and its role cannot be overemphasized when trying to uncover insights and generate reliable answers. More often than not, data will always be dirty in the real world, and data cleaning cannot be completely avoided.
 
