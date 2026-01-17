@@ -7,7 +7,7 @@ Data cleaning is a foundational process in the data science lifecycle, and its r
 library used:  
 numpy  
 pandas  
-seaborn
+seaborn  
 matplotlib  
 
 
