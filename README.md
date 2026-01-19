@@ -11,7 +11,7 @@ seaborn
 matplotlib  
 
 
-we use 9 steps to clean the dataset:  
+we use 9 steps to clean the dirty dataset:  
 STEP 1 : LOAD & INSPECT  
 STEP 2 : CLEAN COLUMN NAMES  
 STEP 3 : FIX DATA TYPES  
