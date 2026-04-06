@@ -29,7 +29,7 @@ Dataset Shape:
 (181756, 22)
 
 Dataset info:
-RangeIndex: 181756 entries, 0 to 181755
+RangeIndex: 181,756 entries, 0 to 181,755
 Data columns (total 22 columns):
 
 ### Dataset Information
